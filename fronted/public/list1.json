@@ -1,44 +1,57 @@
 [
     {
         "id":1,
-        "name":"Clinik",
-        "tittle":"Private",
-        "image":"https://img.freepik.com/free-photo/hands-unrecognizable-female-doctor-typing-keyboard-office_1098-20372.jpg?uid=R157264809&ga=GA1.1.1678089661.1722277666&semt=ais_hybrid",
+        "name":"Hospital",
+        "tittle":"All type",
+        "image":"public/h1.jpeg",
         "category":"private"
     },
     {
         "id":1,
-        "name":"Nursing Home",
+        "name":"Jila Hospital",
         "tittle":"Opd",
-        "image":"https://img.freepik.com/free-photo/blur-hospital_1203-7972.jpg?uid=R157264809&ga=GA1.1.1678089661.1722277666&semt=ais_hybrid",
-        "category":"private/Sarkari"
+        "image":"public/h2.jpeg",
+        "category":"Sarkari"
     },
     {
         "id":1,
-        "name":"Hospital",
-        "tittle":"Cancer Specilaist",
-        "image":"https://img.freepik.com/free-vector/diagnostics-center-landing-page_107791-5466.jpg?uid=R157264809&ga=GA1.1.1678089661.1722277666&semt=ais_hybrid",
+        "name":"Clinik",
+        "tittle":"physician Specilaist",
+        "image":"public/h3.jpeg",
+        "category":"Private"
+    },
+    {
+        "id":1,
+        "name":"Pet Hospital",
+        "tittle":"Dog Specilaist",
+        "image":"public/h4.jpeg",
         "category":"Private"
     },
     {
         "id":1,
         "name":"Hospital",
-        "tittle":"Eyes Specilaist",
-        "image":"https://img.freepik.com/premium-photo/indian-ophthalmologist-examining-patient_274689-7746.jpg?uid=R157264809&ga=GA1.1.1678089661.1722277666&semt=ais_hybrid",
-        "category":"Sarkari"
+        "tittle":"Female specilist",
+        "image":"public/h5.jpeg",
+        "category":"Private/Sarkari"
     },
     {
         "id":1,
-        "name":"Hospital",
-        "tittle":"Animal",
-        "image":"https://www.shutterstock.com/shutterstock/photos/2484800175/display_1500/stock-photo-veterinarian-who-specialize-in-veterinary-medicine-are-examining-health-of-dog-within-animal-2484800175.jpg",
-        "category":"Private /Sarkari"
+        "name":"Eye Hospital",
+        "tittle":"Eye/Ear Specialist",
+        "image":"public/h6.jpeg",
+        "category":"private"
     },
     {
         "id":1,
         "name":"Medicos",
-        "tittle":"lorem10 vbg  vcdfgdfgd  dfg",
-        "image":"https://img.freepik.com/free-photo/medicine-bottles-tablets-wooden-desk_1387-320.jpg?t=st=1733398770~exp=1733402370~hmac=3fa16627535c09f58b63a8982a31aa2d3c3b0191408e1dc4ad8480a4e91b0520&w=900",
+        "tittle":"Medicines",
+        "image":"public/h7.jpeg",
+        "category":"private"
+    },    {
+        "id":1,
+        "name":"Diagnostic",
+        "tittle":"Blood Collection",
+        "image":"public/h8.jpeg",
         "category":"private"
     }
 ]

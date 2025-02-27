@@ -1,44 +1,59 @@
 [
     {
         "id":1,
-        "name":"Kalka Temple",
+        "name":"Badrinath temple",
         "tittle":"Hinduisim",
-        "image":"https://img.freepik.com/premium-photo/images-guanyin-chinese-god_41471-7003.jpg?uid=R157264809&ga=GA1.1.1678089661.1722277666&semt=ais_hybrid",
-        "category":"free"
+        "image":"public/t1.jpeg",
+        "category":"Uttrakhand"
+    },
+    {
+        "id":1,
+        "name":"Ram Mandir ",
+        "tittle":"Hinduisim",
+        "image":"public/t2.jpeg",
+        "category":"Ahyodha"
+    },
+    {
+        "id":1,
+        "name":"Mosque",
+        "tittle":"Muslim",
+        "image":"public/t3.jpeg",
+        "category":"Delhi"
     },
     {
         "id":1,
         "name":"Church",
-        "tittle":"Christian",
-        "image":"https://media.istockphoto.com/id/626426780/photo/immaculate-conception-cathedral.jpg?s=612x612&w=0&k=20&c=0OunypGAd8vfW_eaN0idLUATeAwVWcgpLP_R6aZIkNo=",
-        "category":"free"
+        "tittle":"christian",
+        "image":"public/t4.jpeg",
+        "category":"Mumbai"
     },
     {
         "id":1,
-        "name":"Hospital",
-        "tittle":"Cancer Specilaist",
-        "image":"https://img.freepik.com/free-vector/diagnostics-center-landing-page_107791-5466.jpg?uid=R157264809&ga=GA1.1.1678089661.1722277666&semt=ais_hybrid",
-        "category":"Private"
+        "name":"Sun temple",
+        "tittle":"Hinduisim",
+        "image":"public/t5.jpeg",
+        "category":"Gujrat"
     },
     {
         "id":1,
-        "name":"Hospital",
-        "tittle":"Eyes Specilaist",
-        "image":"https://img.freepik.com/premium-photo/indian-ophthalmologist-examining-patient_274689-7746.jpg?uid=R157264809&ga=GA1.1.1678089661.1722277666&semt=ais_hybrid",
-        "category":"Sarkari"
-    },
-    {
-        "id":1,
-        "name":"Hospital",
-        "tittle":"Animal",
-        "image":"https://www.shutterstock.com/shutterstock/photos/2484800175/display_1500/stock-photo-veterinarian-who-specialize-in-veterinary-medicine-are-examining-health-of-dog-within-animal-2484800175.jpg",
-        "category":"Private /Sarkari"
-    },
-    {
-        "id":1,
-        "name":"Medicos",
+        "name":"Maha kalseshwar",
         "tittle":"lorem10 vbg  vcdfgdfgd  dfg",
-        "image":"https://img.freepik.com/free-photo/medicine-bottles-tablets-wooden-desk_1387-320.jpg?t=st=1733398770~exp=1733402370~hmac=3fa16627535c09f58b63a8982a31aa2d3c3b0191408e1dc4ad8480a4e91b0520&w=900",
-        "category":"private"
+        "image":"public/t6.jpeg",
+        "category":"Ujjain"
+    },
+    {
+        "id":1,
+        "name":"Kalka ji Temple",
+        "tittle":"lorem10 vbg  vcdfgdfgd  dfg",
+        "image":"public/t7.jpeg",
+        "category":"Delhi"
+    },
+
+    {
+        "id":1,
+        "name":"Kedarnath Temple",
+        "tittle":"lorem10 vbg  vcdfgdfgd  dfg",
+        "image":"public/t8.jpeg",
+        "category":"Uttrakhand"
     }
 ]

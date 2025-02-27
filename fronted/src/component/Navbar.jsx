@@ -42,18 +42,18 @@ useEffect(()=>{
           <ul className="p-2 dark:bg-slate-900 dark:text-white">
             <li><a href='/hospital'>Hospital</a></li>
             <li><a href='/temple'>Temple</a></li>
-            <li><a>places</a></li>
-            <li><a>Restaurant</a></li>
+            <li><a href='/famous'>places</a></li>
+            <li><a href='/resturant'>Restaurant</a></li>
           </ul>
         </details>
       </li>
-      <li><a>About</a></li>
-      <li><a>Contact</a></li>
+      <li><a href='/about'>About</a></li>
+      <li><a href='/contact'>Contact</a></li>
       </>)
   return (
     <>
-    <div className={`max-w-screen-2xl container mx-auto md:px-20 px-4 dark:bg-slate-900 dark:text-white fixed  top-0 right-0 left-0  z-60 ${sticky?"sticky-navbar shadow-md bg-base-200 dark:bg-slate-600 dark:text-white duration-300 transition-all ease-in-out":""}`}>
-        <div className="navbar ">
+    <div className={`max-w-screen-2xl container mx-auto md:px-20 px-4 dark:bg-slate-900  dark:text-white fixed text-pin  top-0 right-0 left-0  z-60 bg-gray-300 ${sticky?"sticky-navbar shadow-md bg-base-200 dark:bg-slate-600 dark:text-white duration-300 transition-all ease-in-out":""}`}>
+        <div className='navbar '>
   <div className="navbar-start">
     <div className="dropdown">
       <div tabIndex={0} role="button" className="btn btn-ghost lg:hidden">
@@ -83,7 +83,7 @@ useEffect(()=>{
     <ul className="menu menu-horizontal px-1">{navItem}</ul>
   </div>
 <div className='hidden md:block'>
-<label className="px-3 py-2 border rounded-md flex items-center gap-2">
+<label className="px-3 py-2 border rounded-md flex items-center gap-2 grow outline-red">
   <input type="text" 
   className="grow outline-none dark:bg-slate-900 dark:text-white"
    placeholder="Search" />

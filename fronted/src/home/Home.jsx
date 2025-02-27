@@ -3,6 +3,7 @@ import Navbar from '../component/Navbar'
 import Banner from '../component/Banner'
 import Footer from '../component/Footer'
 import Category from '../component/Category'
+import Contact from '../component/Contact'
 
 function Home() {
   return (
@@ -10,7 +11,8 @@ function Home() {
      <Navbar/>
     <Banner/>
     <Category/>
-    <Footer/>
+    <Contact/>
+    {/* <Footer/> */}
     </>
   )
 }
